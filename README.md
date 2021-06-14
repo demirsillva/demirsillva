@@ -6,10 +6,10 @@
 [![Youtube: Ademir Sillva](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCnXPSs9SPexxg1kV3XuLlOA)](https://www.youtube.com/channel/UCnXPSs9SPexxg1kV3XuLlOA)
 [![Gmail: Ademir Silva](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=ademirfernandessilva622@gmail.com)](ademirfernandessilva622@gmail.com)
 
-<br/>
+
 
 <h2> 🛡️ Apaixonado por tecnologia, programação e música!</h2>
-<br/>
+
 
 <h3>👩‍💻<b> Objetivo:</b></h3>
 🔹 Atuar na área de Desenvolvimento Web como um Desenvolvedor Front-end.
@@ -31,7 +31,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="56px" alt="Javascript" title="Javascript"/>
 </div>
-<br/><br/><br/>
+<br/><br/>
 
 <h2><b>Tenho interesse:</b></h2>
 <div>
