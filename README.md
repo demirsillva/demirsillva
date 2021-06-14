@@ -27,17 +27,20 @@
 <br/><br/>
 
 <h2><b>Estudando:</b></h2>
+<div>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="56px" alt="Javascript" title="Javascript"/>
+</div>
 <br/><br/><br/>
 
 <h2><b>Tenho interesse:</b></h2>
+<div>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="56px" alt="React" title="React">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="Typescript" title="Typescript">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="56px" alt="Mongo DB" title="Mongo DB">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="56px" alt="Angular" title="Angular">
 <br/><br/><br/>
-
+</div>
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="26px" alt="Javascript" title="Javascript"/>
   
@@ -59,7 +62,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ademir-Silva&show_icons=true&theme=radical" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir-Silva&theme=radical" />
 
 
