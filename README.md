@@ -37,7 +37,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="Typescript" title="Typescript">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="56px" alt="Mongo DB" title="Mongo DB">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="56px" alt="Angular" title="Angular">
-<br/><br/><br/>
+<br/>
 </div>
 
 <h3><b>Contato:</b></h3>
