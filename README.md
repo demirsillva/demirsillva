@@ -61,7 +61,6 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ademir-Silva&show_icons=true&theme=radical" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir-Silva&theme=radical" />
 
 
