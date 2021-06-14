@@ -40,6 +40,11 @@
 <br/><br/><br/>
 </div>
 
+<h3><b>Contato:</b></h3>
+📩 ademirfernandessilva622@gmail.com
+
+<br/><br/>
+
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="26px" alt="Javascript" title="Javascript"/>
   
@@ -55,13 +60,7 @@
   
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="26px" alt="Node" title="Node">
 </div>
-
 <br/>
-
-<h3><b>Contato:</b></h3>
-📩 ademirfernandessilva622@gmail.com
-
-<br/><br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ademir-Silva&show_icons=true&theme=radical"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir-Silva&theme=radical" />
 
