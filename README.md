@@ -4,7 +4,6 @@
 [![Facebook: Ademir Silva](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ademir.silva.90038882)](https://www.facebook.com/ademir.silva.90038882)
 [![Instagram: demirsillva](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/demirsillva/)](https://www.instagram.com/demirsillva/)
 [![Youtube: Ademir Sillva](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCnXPSs9SPexxg1kV3XuLlOA)](https://www.youtube.com/channel/UCnXPSs9SPexxg1kV3XuLlOA)
-[![Gmail: Ademir Silva](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=ademirfernandessilva622@gmail.com)](ademirfernandessilva622@gmail.com)
 
 
 
@@ -58,6 +57,9 @@
 </div>
 
 <br/>
+
+<h3><b>Contato:</b></h3>
+📩 ademirfernandessilva622@gmail.com
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ademir-Silva&show_icons=true&theme=radical"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir-Silva&theme=radical" />
