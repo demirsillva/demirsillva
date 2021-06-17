@@ -15,7 +15,7 @@
 
 <h3>🤯<b>Tenho conhecimento em:</b></h3>
 
-🔹 <b>Linguagens de Programação:</b> PHP, HTML, CSS, JavaScript, C.<br/>
+🔹 PHP, HTML, CSS, JavaScript, C.<br/>
 🔹 <b>Frameworks no CSS:</b> Bootstrap, Materialize.<br/>
 🔹 <b>Framework de PHP:</b> Laravel.<br/>
 🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Mockflow, Quant UX, Visual Studio Code, Sublime Text 3.<br/>
