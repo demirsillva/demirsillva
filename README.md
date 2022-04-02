@@ -10,13 +10,12 @@
 <h2> 🛡️ Apaixonado por tecnologia, programação e música!</h2>
 
 
-<h3>👩‍💻<b> Objetivo:</b></h3>
-🔹 Atuar na área de Desenvolvimento Web como um Desenvolvedor Front-end.
+<h3>👩‍💻<b> Desenvolvedor Front-end Junior</b></h3>
 
-<h3>🤯<b>Tenho conhecimento em:</b></h3>
+<h3>🤯<b>Conhecimento em:</b></h3>
 
 🔹 PHP, HTML, CSS, JavaScript, C.<br/>
-🔹 <b>Frameworks no CSS:</b> Bootstrap, Materialize.<br/>
+🔹 <b>Frameworks CSS:</b> Bootstrap, Materialize.<br/>
 🔹 <b>Framework de PHP:</b> Laravel.<br/>
 🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Mockflow, Quant UX, Visual Studio Code, Sublime Text 3.<br/>
 
