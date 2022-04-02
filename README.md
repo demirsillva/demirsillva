@@ -14,14 +14,14 @@
 
 <h3>🤯<b>Conhecimento em:</b></h3>
 
-🔹 PHP, HTML, CSS, JavaScript, C.<br/>
-🔹 <b>Frameworks CSS:</b> Bootstrap, Materialize.<br/>
-🔹 <b>Framework de PHP:</b> Laravel.<br/>
-🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Mockflow, Quant UX, Visual Studio Code, Sublime Text 3.<br/>
+🔹 PHP, HTML, CSS, JavaScript, C<br/>
+🔹 <b>Frameworks CSS:</b> Bootstrap, Materialize<br/>
+🔹 <b>Framework PHP:</b> Laravel<br/>
+🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Mockflow, Quant UX, Visual Studio Code, Sublime Text<br/>
 
-🎲 <b>Banco de Dados:</b> MYSQL.
+🎲 <b>Banco de Dados:</b> MYSQL
 
-💻 <b>Sistemas Operacionais:</b> Windows, Linux. e MacOS;
+💻 <b>Sistemas Operacionais:</b> Windows, Linux. e MacOS
 <br/><br/>
 
 <h2><b>Estudando:</b></h2>
