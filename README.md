@@ -26,6 +26,7 @@
 
 <h2><b>Estudando:</b></h2>
 <div>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="56px" alt="GoLang" title="GoLang"/>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="56px" alt="Javascript" title="Javascript"/>
 </div>
