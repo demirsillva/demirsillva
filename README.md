@@ -15,7 +15,7 @@
 <h3>🤯<b>Conhecimento em:</b></h3>
 
 🔹 PHP, HTML, CSS, JavaScript, C<br/>
-🔹 <b>Frameworks CSS:</b> Bootstrap, Materialize<br/>
+🔹 <b>Frameworks CSS:</b> Bootstrap, Materialize, SASS<br/>
 🔹 <b>Framework PHP:</b> Laravel<br/>
 🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Mockflow, Quant UX, Visual Studio Code, Sublime Text<br/>
 
@@ -26,14 +26,13 @@
 
 <h2><b>Estudando:</b></h2>
 <div>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="56px" alt="GoLang" title="GoLang"/>
+    <img src="https://icon-icons.com/icon/file-type-sass/130182" width="56px" alt="React" title="ReactJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="56px" alt="Javascript" title="Javascript"/>
 </div>
 
 <h2><b>Tenho interesse:</b></h2>
 <div>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="56px" alt="React" title="React">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="Typescript" title="Typescript">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="56px" alt="Mongo DB" title="Mongo DB">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="56px" alt="Angular" title="Angular">
