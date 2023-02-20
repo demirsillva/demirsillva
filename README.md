@@ -1,7 +1,7 @@
 <h1>Hi guys, I'm Ademir Silva 🚀</h1>
 
-[![Linkedin: demir-silva](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demir-silva/)](https://www.linkedin.com/in/demir-silva/)
-[![Facebook: Ademir Silva](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ademir.silva.90038882)](https://www.facebook.com/ademir.silva.90038882)
+[![Linkedin: demir-silva](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demirsillva/)](https://www.linkedin.com/in/demirsillva/)
+[![Facebook: Ademir Silva](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/demirsillva)](https://www.facebook.com/demirsillva)
 [![Instagram: demirsillva](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/demirsillva/)](https://www.instagram.com/demirsillva/)
 [![Youtube: Ademir Sillva](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCnXPSs9SPexxg1kV3XuLlOA)](https://www.youtube.com/channel/UCnXPSs9SPexxg1kV3XuLlOA)
 
@@ -17,7 +17,7 @@
 🔹 PHP, HTML, CSS, JavaScript, C<br/>
 🔹 <b>Frameworks CSS:</b> Bootstrap, Materialize, SASS<br/>
 🔹 <b>Framework PHP:</b> Laravel<br/>
-🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Mockflow, Quant UX, Visual Studio Code, Sublime Text<br/>
+🔹 <b>Softwares e Ferramentas de Desenvolvimento:</b> Figma, Photoshop, Mockflow, Quant UX, Visual Studio Code, Sublime Text<br/>
 
 🎲 <b>Banco de Dados:</b> MYSQL
 
