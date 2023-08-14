@@ -23,7 +23,7 @@
 
 <h2><b>Learning:</b></h2>
 <div>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_react_icon_146374.png" width="56px" alt="React" title="React">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" width="56px" alt="React" title="React">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="Typescript" title="Typescript">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" width="56px" alt="TailwindCSS" title="TailwindCSS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
