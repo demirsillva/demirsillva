@@ -3,7 +3,7 @@
 [![Linkedin: demir-silva](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demirsillva/)](https://www.linkedin.com/in/demirsillva/)
 [![Facebook: Ademir Silva](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/demirsillva)](https://www.facebook.com/demirsillva)
 [![Instagram: demirsillva](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/demirsillva/)](https://www.instagram.com/demirsillva/)
-[![Youtube: Rapfire Labs](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@rapfirelabs)]
+[![Youtube: Rapfire Labs](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@rapfirelabs)](https://www.youtube.com/@rapfirelabs)
 
 
 <h2> 🛡️ Passionate about technology, programming and music!</h2>
@@ -23,9 +23,9 @@
 
 <h2><b>Learning:</b></h2>
 <div>
-    <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png](https://icon-icons.com/icon/react-original-logo/146374)" width="56px" alt="Reac" title="React">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="React" title="React">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="Typescript" title="Typescript">
-    <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png](https://icon-icons.com/icon/tailwindcss-logo/167923)" width="56px" alt="TailwindCSS" title="TailwindCSS">
+    <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" width="56px" alt="TailwindCSS" title="TailwindCSS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="56px" alt="Javascript" title="Javascript"/>
 </div>
