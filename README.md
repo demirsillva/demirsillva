@@ -23,8 +23,8 @@
 
 <h2><b>Learning:</b></h2>
 <div>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="React" title="React">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="56px" alt="Typescript" title="Typescript">
+    <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png](https://icon-icons.com/icon/react-original-logo/146374)" width="56px" alt="React" title="React">
+    <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png](https://icon-icons.com/icon/file-type-typescript-official/130107)" width="56px" alt="Typescript" title="Typescript">
     <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" width="56px" alt="TailwindCSS" title="TailwindCSS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="56px" alt="NodeJS" title="NodeJS">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="56px" alt="Javascript" title="Javascript"/>
