@@ -9,7 +9,7 @@
 <h2> 🛡️ Passionate about technology, programming and music!</h2>
 
 
-<h3>👩‍💻<b> Dev Front-end | Web Designer</b></h3>
+<h3>🧑‍💻<b> Dev Front-end | Web Designer</b></h3>
 
 <h3>🤯<b> Competence in:</b></h3>
 
