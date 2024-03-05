@@ -40,7 +40,7 @@
 </div>
 
 <h3><b>Contact:</b></h3>
-📩 ademirsilva.jobs@gmail.com
+📩 demirsillva.dev@gmail.com
 
 <br/><br/>
 
